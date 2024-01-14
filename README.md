@@ -20,13 +20,6 @@ Note: the Pokemon.gb file MUST be in the main directory and your current directo
 
 <img src="/assets/grid.png?raw=true" height="156">
 
-### 10-21-23: Updated Version! 
-
-This version still needs some tuning, but it can clear the first gym in a small fraction of the time and compute resources. It can work with as few as 16 cores and ~20G of RAM. This is the place for active development and updates! 
-
-1. Previous steps 1-3
-2. Run:  
-```python run_baseline_parallel_fast.py```
 
 ## Tracking Training Progress 📈 
 The current state of each game is rendered to images in the session directory.   
