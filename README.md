@@ -27,18 +27,3 @@ You can track the progress in tensorboard by moving into the session directory a
 ```tensorboard --logdir .```  
 You can then navigate to `localhost:6006` in your browser to view metrics.  
 To enable wandb integration, change `use_wandb_logging` in the training script to `True`.
-
-## Extra 🐜
-Map visualization code can be found in `visualization/` directory.
-
-## Supporting Libraries
-Check out these awesome projects!
-### [PyBoy](https://github.com/Baekalfen/PyBoy)
-<a href="https://github.com/Baekalfen/PyBoy">
-  <img src="/assets/pyboy.svg" height="64">
-</a>
-
-### [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3)
-<a href="https://github.com/DLR-RM/stable-baselines3">
-  <img src="/assets/sblogo.png" height="64">
-</a>
